@@ -34,3 +34,5 @@ def two_pointer_problem(s):
 
     return True
 print(two_pointer_problem(s))
+# Time Complexity: O(n)
+# Space Complexity: O(1)
